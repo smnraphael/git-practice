@@ -1,0 +1,3 @@
+Name: Raphaël
+Age: 26
+Favorite Color: Black
